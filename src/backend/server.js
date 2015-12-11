@@ -13,7 +13,7 @@ define(["require", "exports", 'express'], function (require, exports, express) {
         });
     });
     var port = process.env.PORT || 3000;
-    var server = app.listen(port, function () {
+    var server = app.listen(8000, function () {
         var listeningPort = server.address().port;
         console.log('The server is listening on port: ' + listeningPort);
     });

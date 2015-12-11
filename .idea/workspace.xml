@@ -5,10 +5,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/backend/app.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/backend/app.js.map" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/backend/app.ts" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backend/server.js" afterPath="$PROJECT_DIR$/src/backend/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backend/server.js.map" afterPath="$PROJECT_DIR$/src/backend/server.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backend/server.ts" afterPath="$PROJECT_DIR$/src/backend/server.ts" />
     </list>
     <ignored path="carpool.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -222,7 +218,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-93" width="1936" height="1096" extended-state="6" />
+    <frame x="1592" y="-93" width="1936" height="1096" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
