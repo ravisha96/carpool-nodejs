@@ -34,9 +34,9 @@ gulp.task('buildFrontEnd', ['cleanBuiltDir'],  function () {
  
 gulp.task('nodemon', ['buildBackEnd', 'buildFrontEnd', 'watch'], function(){
     nodemon({
-        script: './built/backend/server.js'
+        script: './built/backend/app.js'
     }).on('restart', function(){
-        console.log('nodemon restarted server.js');
+        console.log('nodemon restarted app.js');
     })
 })
  

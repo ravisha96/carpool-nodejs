@@ -4,7 +4,8 @@
   "description": "A demo app with Express 4, Angular 2, Gulp and TypeScript 1.5 ",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/gulp/bin/gulp nodemon"
   },
   "author": "",
   "license": "ISC",
