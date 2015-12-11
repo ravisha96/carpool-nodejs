@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d86d133b-832e-4968-989c-ace842ee555b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/backend/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/backend/server.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/backend/server.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/backend/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/backend/app.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/backend/app.ts" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backend/server.js" afterPath="$PROJECT_DIR$/src/backend/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backend/server.js.map" afterPath="$PROJECT_DIR$/src/backend/server.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backend/server.ts" afterPath="$PROJECT_DIR$/src/backend/server.ts" />
     </list>
     <ignored path="carpool.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,18 +28,7 @@
     <favorites_list name="carpool" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/backend/app.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2197092">
-              <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -147,7 +140,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app.ts" />
+              <option name="myItemId" value="server.ts" />
               <option name="myItemType" value="com.intellij.lang.typescript.compiler.ui.projectView.TypeScriptNestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>

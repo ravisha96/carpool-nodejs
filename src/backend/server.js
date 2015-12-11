@@ -1,8 +1,7 @@
-/// <reference path="../../typings/tsd.d.ts" />
 define(["require", "exports", 'express'], function (require, exports, express) {
     var viewRenderingEngine = require('ejs-mate');
     var app = express();
-    app.engine('html', viewRenderingEngine.renderFile);
+    app.engine('html', viewRenderingEngine);
     app.set('view engine', 'html'); // so you can render('index') 
     app.get('/', function (req, res) {
         res.render('index');
